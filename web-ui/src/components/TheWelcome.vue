@@ -4,12 +4,13 @@ import DocumentationIcon from "./icons/IconDocumentation.vue";
 import ToolingIcon from "./icons/IconTooling.vue";
 import EcosystemIcon from "./icons/IconEcosystem.vue";
 import CommunityIcon from "./icons/IconCommunity.vue";
-import SupportIcon from "./icons/IconSupport.vue";</script>
+import SupportIcon from "./icons/IconSupport.vue";
+</script>
 
 <template>
   <WelcomeItem>
     <template #icon>
-      <DocumentationIcon/>
+      <DocumentationIcon />
     </template>
     <template #heading>Documentation</template>
 
@@ -20,7 +21,7 @@ import SupportIcon from "./icons/IconSupport.vue";</script>
 
   <WelcomeItem>
     <template #icon>
-      <ToolingIcon/>
+      <ToolingIcon />
     </template>
     <template #heading>Tooling</template>
 
@@ -32,17 +33,17 @@ import SupportIcon from "./icons/IconSupport.vue";</script>
     If you need to test your components and web pages, check out
     <a href="https://www.cypress.io/" target="_blank">Cypress</a> and
     <a href="https://on.cypress.io/component" target="_blank"
-    >Cypress Component Testing</a
+      >Cypress Component Testing</a
     >.
 
-    <br/>
+    <br />
 
     More instructions are available in <code>README.md</code>.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
-      <EcosystemIcon/>
+      <EcosystemIcon />
     </template>
     <template #heading>Ecosystem</template>
 
@@ -54,14 +55,14 @@ import SupportIcon from "./icons/IconSupport.vue";</script>
     <a href="https://github.com/vuejs/devtools" target="_blank">Vue Dev Tools</a
     >. If you need more resources, we suggest paying
     <a href="https://github.com/vuejs/awesome-vue" target="_blank"
-    >Awesome Vue</a
+      >Awesome Vue</a
     >
     a visit.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
-      <CommunityIcon/>
+      <CommunityIcon />
     </template>
     <template #heading>Community</template>
 
@@ -69,7 +70,7 @@ import SupportIcon from "./icons/IconSupport.vue";</script>
     <a href="https://chat.vuejs.org" target="_blank">Vue Land</a>, our official
     Discord server, or
     <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank"
-    >StackOverflow</a
+      >StackOverflow</a
     >. You should also subscribe to
     <a href="https://news.vuejs.org" target="_blank">our mailing list</a> and
     follow the official
@@ -79,7 +80,7 @@ import SupportIcon from "./icons/IconSupport.vue";</script>
 
   <WelcomeItem>
     <template #icon>
-      <SupportIcon/>
+      <SupportIcon />
     </template>
     <template #heading>Support Vue</template>
 
