@@ -30,7 +30,7 @@ User Interface for several __Mini Games__ developing with __Vue 3 in Vite__.
 ## Server: Block Game
 
 1. `cd server` to change directory
-2. `npm init -y` to init [package.json]()
+2. `npm init -y` to init [package.json](server-block-game/package.json)
 3. `npm install express socket.io --save` as dependency
 4. `npm install nodemon --save-dev` for hot-reload
 
