@@ -6,7 +6,7 @@ __System Requirements:__ [NodeJS](https://nodejs.org/en/download/)
 
 ## Client: Web UI
 
-User Interface for several __Mini Games__ developing with Vue __3 in Vite__.
+User Interface for several __Mini Games__ developing with __Vue 3 in Vite__.
 
 ### Run Project
 
