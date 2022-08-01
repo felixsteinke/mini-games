@@ -22,16 +22,21 @@ User Interface for several __Mini Games__ developing with __Vue 3 in Vite__.
 1. `npm install -g @vue/cli` (v5.0.8)
 2. `npm init vue@latest` (v3.3.1) with __Typescript__, __Routing__, __Pinia__ State Management, __Vitest__ Unit Testing,
    __ESLint__ Code Quality and __Prettier__ Code Formatting
-3. `cd .\web-ui\`
+3. `cd ./web-ui`
 4. `npm install` to install dependencies from [package.json](web-ui/package.json)
 5. `npm install socket.io --save` for [Socket.IO](https://socket.io/get-started/)
 6. `npm install element-plus --save` for [Element Plus Materials](https://element-plus.org/en-US/component/button.html)
 
 ## Server: Block Game
 
-1. `cd server` to change directory
-2. `npm init -y` to init [package.json](server-block-game/package.json)
-3. `npm install express socket.io --save` as dependency
-4. `npm install nodemon --save-dev` for hot-reload
+### Run Project
 
---> `npm run start`
+1. `cd ./server-block-game`
+2. `npm run start`
+
+### Project Creation Commands
+
+1. `cd ./server-block-game`
+2. `npm init -y` to init [package.json](server-block-game/package.json)
+3. `npm install express socket.io --save` for [Socket.IO](https://socket.io/get-started/)
+4. `npm install nodemon --save-dev` for hot-reload
