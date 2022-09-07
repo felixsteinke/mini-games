@@ -1,0 +1,6 @@
+{
+  "entity": "BAHNHOF",
+  "branch": "UNTERNEHMEN",
+  "price": 4,
+  "description": "Der Spieler darf in jedem Zug neu entscheiden, ob er 1 oder 2 Wuerfel verwendet."
+}

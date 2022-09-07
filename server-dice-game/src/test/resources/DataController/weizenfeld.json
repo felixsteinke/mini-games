@@ -1,0 +1,9 @@
+{
+  "entity": "WEIZENFELD",
+  "branch": "LANDWIRTSCHAFT_PFLANZEN",
+  "price": 1,
+  "rollEntity": [
+    1
+  ],
+  "description": "Erhalte 1 Muenze aus der Bank."
+}

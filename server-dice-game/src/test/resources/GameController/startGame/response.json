@@ -1,0 +1,53 @@
+{
+  "gameName": "game234",
+  "gamePhase": "WUERFELN",
+  "activePlayerName": "player234",
+  "dice": null,
+  "players": [
+    {
+      "name": "player234",
+      "money": 3,
+      "businesses": {
+        "WEIZENFELD": 1,
+        "BAECKEREI": 1
+      },
+      "allProjects": {
+        "BAHNHOF": false,
+        "FUNKTURM": false,
+        "FREIZEITPARK": false,
+        "EINKAUFSZENTRUM": false
+      }
+    },
+    {
+      "name": "player456",
+      "money": 3,
+      "businesses": {
+        "WEIZENFELD": 1,
+        "BAECKEREI": 1
+      },
+      "allProjects": {
+        "BAHNHOF": false,
+        "FUNKTURM": false,
+        "FREIZEITPARK": false,
+        "EINKAUFSZENTRUM": false
+      }
+    }
+  ],
+  "board": {
+    "MINI_MARKT": 4,
+    "BERGWERK": 4,
+    "WEIZENFELD": 4,
+    "BAECKEREI": 4,
+    "BUEROHAUS": 2,
+    "MARKTHALLE": 4,
+    "MOEBELFABRIK": 4,
+    "WALD": 4,
+    "STADION": 2,
+    "APFELPLANTAGE": 4,
+    "FAMILIENRESTAURANT": 4,
+    "MOLKEREI": 4,
+    "FERNSEHSENDER": 2,
+    "BAUERNHOF": 4,
+    "CAFE": 4
+  }
+}

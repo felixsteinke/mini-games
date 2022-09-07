@@ -1,0 +1,140 @@
+{
+  "WALD": {
+    "entity": "WALD",
+    "branch": "LANDWIRTSCHAFT_ROHSTOFFE",
+    "price": 3,
+    "rollEntity": [
+      5
+    ],
+    "description": "Erhalte 1 Muenze aus der Bank."
+  },
+  "FAMILIENRESTAURANT": {
+    "entity": "FAMILIENRESTAURANT",
+    "branch": "RESTAURANTS",
+    "price": 3,
+    "rollEntity": [
+      9,
+      10
+    ],
+    "description": "Erhalte 2 Muenzen von dem Mitspieler, der eine '9' oder '10' gewuerfelt hat."
+  },
+  "WEIZENFELD": {
+    "entity": "WEIZENFELD",
+    "branch": "LANDWIRTSCHAFT_PFLANZEN",
+    "price": 1,
+    "rollEntity": [
+      1
+    ],
+    "description": "Erhalte 1 Muenze aus der Bank."
+  },
+  "BAUERNHOF": {
+    "entity": "BAUERNHOF",
+    "branch": "LANDWIRTSCHAFT_TIERE",
+    "price": 1,
+    "rollEntity": [
+      2
+    ],
+    "description": "Erhalte 1 Muenze aus der Bank."
+  },
+  "CAFE": {
+    "entity": "CAFE",
+    "branch": "RESTAURANTS",
+    "price": 2,
+    "rollEntity": [
+      3
+    ],
+    "description": "Erhalte 1 Muenze von dem Mitspieler, der eine '3' gewuerfelt hat."
+  },
+  "MOLKEREI": {
+    "entity": "MOLKEREI",
+    "branch": "INDUSTRIE_VERKAUF",
+    "price": 5,
+    "rollEntity": [
+      7
+    ],
+    "description": "Erhalte 3 Muenzen aus der Bank fuer jedes deiner 'LANDWIRTSCHAFT_TIERE' Karten."
+  },
+  "BERGWERK": {
+    "entity": "BERGWERK",
+    "branch": "LANDWIRTSCHAFT_ROHSTOFFE",
+    "price": 6,
+    "rollEntity": [
+      9
+    ],
+    "description": "Erhalte 5 Muenzen aus der Bank."
+  },
+  "STADION": {
+    "entity": "STADION",
+    "branch": "UNTERNEHMEN",
+    "price": 6,
+    "rollEntity": [
+      6
+    ],
+    "description": "Erhalte von jedem Mitspieler 2 Muenzen."
+  },
+  "FERNSEHSENDER": {
+    "entity": "FERNSEHSENDER",
+    "branch": "UNTERNEHMEN",
+    "price": 7,
+    "rollEntity": [
+      6
+    ],
+    "description": "Erhalte von einem Mitspieler deiner Wahl 5 Muenzen."
+  },
+  "MARKTHALLE": {
+    "entity": "MARKTHALLE",
+    "branch": "INDUSTRIE_VERKAUF",
+    "price": 2,
+    "rollEntity": [
+      11,
+      12
+    ],
+    "description": "Erhalte 3 Muenzen aus der Bank fuer jedes deiner 'LANDWIRTSCHAFT_PFLANZEN' Karten."
+  },
+  "APFELPLANTAGE": {
+    "entity": "APFELPLANTAGE",
+    "branch": "LANDWIRTSCHAFT_PFLANZEN",
+    "price": 3,
+    "rollEntity": [
+      10
+    ],
+    "description": "Erhalte 3 Muenzen aus der Bank."
+  },
+  "MOEBELFABRIK": {
+    "entity": "MOEBELFABRIK",
+    "branch": "INDUSTRIE_VERKAUF",
+    "price": 3,
+    "rollEntity": [
+      8
+    ],
+    "description": "Erhalte 3 Muenzen aus der Bank fuer jedes deiner 'LANDWIRTSCHAFT_ROHSTOFFE' Karten."
+  },
+  "BUEROHAUS": {
+    "entity": "BUEROHAUS",
+    "branch": "UNTERNEHMEN",
+    "price": 8,
+    "rollEntity": [
+      6
+    ],
+    "description": "Tausche 1 Karte mit einem Mitspieler deiner Wahl. Keine 'UNTERNEHMEN' Karte."
+  },
+  "BAECKEREI": {
+    "entity": "BAECKEREI",
+    "branch": "INDUSTRIE_PRODUKTION",
+    "price": 1,
+    "rollEntity": [
+      2,
+      3
+    ],
+    "description": "Erhalte 1 Muenze aus der Bank."
+  },
+  "MINI_MARKT": {
+    "entity": "MINI_MARKT",
+    "branch": "INDUSTRIE_PRODUKTION",
+    "price": 2,
+    "rollEntity": [
+      4
+    ],
+    "description": "Erhalte 3 Muenzen aus der Bank."
+  }
+}
